@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand {
+    font-family: Mrs Saint Delafield, sans-serif;
+    font-weight: 550;
+}
+
+.navbar-collapse {
+    font-family: Playfair Display, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.bi {
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.carousel-inner h2  {
+    font-family: Mrs Saint Delafield, sans-serif;
+    font-weight: 600;
+    color: rgb(156, 27, 27);
+}
+.carousel-inner h1  {
+    font-family: Mrs Saint Delafield, sans-serif;
+    color: rgb(156, 27, 27);
+}
+
+.w-100 {
+    height: 650px;
+    object-fit: cover;
+}
+
+.carousel-indicators [data-bs-target] {
+    height: 30px;
+}
+
+.hr {
+    margin: auto;
+    width: 150px;
+    margin-top: 0.3px;
+    height: 3px;
+    background-color: rgb(156, 27, 27);
+    margin-bottom: 55px;
+}
+
+.title {
+    font-family: Playfair Display, sans-serif;
+    font-weight: 550;
+}
+
+.img-fluid {
+    width: 100%;
+    height: 90vh;
+}
+
+.col-md-6 h5 {
+    font-family: Mrs Saint Delafield, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.col-md-6 h1 {
+    font-family: Playfair Display, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    color: rgb(156, 27, 27);
+}
+.col-md-6 p {
+    font-family: Playfair Display, sans-serif;
+    font-weight: 600;
+    font-size: 400;
+    text-align: center;
+    color: rgb(156, 27, 27);
+}
+
+.card-img-top {
+    transform-origin: 65% 75%;
+    transition: transform 1s, filter .5s ease-out;
+}
+.card-img-top:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.mt-3 {
+    font-family: Playfair Display, sans-serif;
+    font-weight: 600;
+    color: black;
+}
+
+.click {
+    font-family: Playfair Display, sans-serif;
+    font-weight: 600;
+    color: rgb(156, 27, 27)
+}
+
+.blog-title {
+    font-family: Playfair Display, sans-serif;
+    font-weight: 600;
+}
+
+.card-title {
+    font-family: Playfair Display, sans-serif;
+    font-weight: 600;
+    color: black;
+}
+
+.p-blog {
+    font-family: Playfair Display, sans-serif;
+    font-weight: 600;
+    color: rgb(156, 27, 27)
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+
+.footer {
+    background-color: rgb(156, 27, 27);
+    color: black;
+    font-size: 0.9rem;
+    font-family: Playfair Display, sans-serif;
+}
+
+.footer-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 1rem;
+}
+
+.footer-link {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+}
+
+.footer-link:hover {
+    color: white;
+}
+
+.social-icons {
+    display: flex;
+    gap: 15;
+}
+
+.social-link {
+    font-size: 1.2rem;
+}
+
+.footer-divider {
+    border-top: 1px solid;
+    margin: 2rem 0;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
